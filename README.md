@@ -134,3 +134,7 @@ uv run isaaclab --editor --isaac_path <isaac-sim-path>
 If Pylance or basedpyright cannot resolve modules, confirm that the selected interpreter matches the one used to run the
 setup command, then reload the editor window. To add a missing extension or reduce indexing memory, edit the `extraPaths`
 array in the root `pyrightconfig.json`; remove simulator extension directories that the project does not use.
+
+## Credits
+
+- [NVIDIA | IsaacLab Docs](https://isaac-sim.github.io/IsaacLab/main/source/how-to/index.html)
